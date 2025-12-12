@@ -68,7 +68,7 @@ Supplementary lab work and experimental implementations.
 
 ## Technologies & Tools
 
-- **Python 3.x**
+- **Python 3.14**
 - **NumPy** - Numerical computations
 - **Pandas** - Data manipulation
 - **Matplotlib/Seaborn** - Visualization
